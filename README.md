@@ -1,6 +1,8 @@
 # Realtek wifi driver
 - we going to  install wifi drivers from github
-*Note : if the error like command not found then follow 
+```diff
+- *Note : if the error like command not found then follow 
+```
 ```
 $ sudo apt install command // write your command space of command
 ```
@@ -14,7 +16,7 @@ $ make
 $ sudo make install
 ```
 
--Then, if there's the following problem:
+- Then, if there's the following problem:
 
 ```
 $ make
