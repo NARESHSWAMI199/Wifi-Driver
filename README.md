@@ -147,3 +147,5 @@ sudo dkms install rtl8188fu/1.0
 Now, reboot. Your Wi-Fi should now be working!
 
 Thanks a lot and all the best!
+
+[copied from - superuser.com](https://superuser.com/questions/1402078/wi-fi-adapter-install-error-linux-mint)
